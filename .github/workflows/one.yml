@@ -39,6 +39,7 @@ jobs:
           USER_SESSION_STRING: ${{ secrets.USER_SESSION_STRING }}
           CMD_SUFFIX: ${{ secrets.CMD_SUFFIX }}
           AUTHORIZED_CHATS: ${{ secrets.AUTHORIZED_CHATS}}
+          OWNER_ID: ${{ secrets.OWNER_ID }}
           
           
           
